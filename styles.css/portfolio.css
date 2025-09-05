@@ -130,3 +130,40 @@ main{
     border-radius: 5px;
 
 }
+.resume-container{
+    display: flex;
+    gap:24px;
+    
+}
+.experience-description{
+    color: rgba(117, 117, 117, 1);
+    font-size: 16px;
+}
+.experience-tittle {
+    color:rgba(71, 71, 71, 1) ;
+    font-size: 25px;
+    font-weight: bold;
+    
+
+
+}
+.resume-column-tittle{
+    color:rgba(71, 71, 71, 1) ;
+        font-size: 30px;
+    font-weight: bold;
+    margin-bottom: 30px;
+
+}
+.experience-subtittle{
+    font-size: 20px;
+    margin-bottom: 20px;
+}
+.resume-download-cv{
+    margin-top: 50px;
+    text-align: center;
+}
+.section-tittle{
+    text-align: center;
+    margin-top: 130px;
+    margin-bottom: 113px;
+}
